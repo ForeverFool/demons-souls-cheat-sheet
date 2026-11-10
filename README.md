@@ -1,10 +1,8 @@
 # Demon's Souls Cheat Sheet
 
-To view the cheat sheet [click here](http://iforgottosave.github.io/demons-souls-cheat-sheet/)
+To view the cheat sheet [click here](https://foreverfool.github.io/demons-souls-cheat-sheet/)
 
-The foundation of this guide was based on [Dark Souls 3 Cheat Sheet](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) created by [Zachary Kjellberg](https://github.com/ZKjellberg/)
-
-The walkthrough is made thanks to [IGN's Walkthrough Guide](https://www.ign.com/wikis/demons-souls/Walkthrough) and [xHolmesWalkthroughsx7's Demon's Souls Walkthrough](https://www.youtube.com/channel/UCCJ98JdjxcjqynqvjSJsAdw)
+This guide is an expanded version of the [Demon's Souls Cheat Sheet](https://iforgottosave.github.io/demons-souls-cheat-sheet/) created by [iforgottosave](https://github.com/iforgottosave)
 
 ## Contribution Guide
 
